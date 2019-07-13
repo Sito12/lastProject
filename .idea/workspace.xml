@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59901d5b-629f-4e8e-9913-f69663e40a69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/JavaFXExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/application/AlertService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/application/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/application/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/application/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/application/registration-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/borderpane/BorderPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/borderpane/borderpane.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/gridPane/GridPaneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/vbox/VboxExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/JavaFXExample/src/sample/vbox/vbox.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/src/main/java/Zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/src/main/java/ZadStream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/src/main/java/ZadStream/PostKometarz/Komentarz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/src/main/java/ZadStream/PostKometarz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/src/main/java/ZadStream/PostKometarz/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/src/main/java/ZadStream/zad1/zad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Streamy151218/src/main/java/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/osoba/Babcia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/osoba/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/osoba/Plec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/osoba/Tata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/osoba/Wnuczka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/Dniowka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/IProsteZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/IZlozoneZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/IZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/Portfel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/ProsteZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/Skarpeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/pieniadze/Spinacz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/sprzedaz/Bazar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/Zajecia161218/src/main/java/zad1/sprzedaz/SklepSportowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/_081218.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok1/Kasjer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok1/Klient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok1/Koszyk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok1/Produkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok1/Reklamowka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok1/Zakup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/Krok2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/osoba/Kasjer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/osoba/KasjerNiepelnosprawny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/osoba/KasjerPelnosprawny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/osoba/Klient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/osoba/Koszyk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/osoba/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok2/osoba/Plec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/Krok3Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/Robot/RobotWersja1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/kasowanie/IKasowanieZakupow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/kasowanie/SkasujZakupy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/kontrakt/IKasjer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/pakowanie/IPPakowanieZakupow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/pakowanie/NicNiePakuj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/krok3/pakowanie/SpakujWszystko.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/sklepCd/Kasjer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/sklepCd/Klient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/sklepCd/Koszyk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/sklepCd/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/sklepCd/Produkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/sklepCd/Reklamowka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/_081218/src/main/java/sklep/sklepCd/Zakup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/datastructures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/src/main/java/list/ListElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/src/main/java/list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/datastructures/src/main/java/stackStos/BrowserBackButtonStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/AMDProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/AbstractFactoryExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/AmdGpu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/ComputerA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/ComputerB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/ComputerPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/GraphicsCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/Intel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/NvidiaGPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/abstractfactory/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/builder/BuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/builder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/builder/Chassis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/builder/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/builder/EngineBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/builder/FuelType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/decorator/DecoratorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/decorator/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/decorator/LargeDrinkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/decorator/LargeFriesDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/decorator/SaltDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/decorator/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/decorator/StandardSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/CloneProofSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/DeserializationProofSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/LazyInitializationSingelton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/ShoppingCardSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/SingletonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/designpatterns/src/main/java/singleton/logger/LoggerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/jdbc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad3/Produkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad3/ProduktReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad3/Rodzaj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/Produkt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/ProduktReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/Rodzaj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/SpozywczakApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/Sprzedaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/Zakup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/Odczyt/zad4/ZakupWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/przyklad1/przyklad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/zadanie1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/zadanie2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/zadanie3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/zadanie4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/zadanie6/Formularz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/zadanie6/Formularz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/package/src/main/java/zadanie6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/sdawork-library-5f2c1f7a110b/src/main/webapp/author/author_add_from.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/sdawork-library-5f2c1f7a110b/src/main/webapp/author/author_edit_form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/sdawork-library-5f2c1f7a110b/src/main/webapp/author/author_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/tabliceliczb/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/tabliceliczb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/tabliceliczb/src/main/java/zajecia_9_12_18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/tabliceliczb/src/main/java/zajecia_9_12_18/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/test/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Java/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_fasterxml_classmate_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__com_zaxxer_HikariCP_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_assertj_assertj_core_3_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_mockito_mockito_core_2_28_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_2_28_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_orm_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_test_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_tx_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_web_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/libraries/Maven__org_yaml_snakeyaml_1_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Kurs Materiały/Spring/zad + wyszukiwanie/petclinic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_28_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_2_28_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_0_M4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_0_RC1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_0_M3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic (2).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/RoomRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/controller/EventController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/controller/RoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/domain/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/domain/model/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/domain/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/domain/repository/ClientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/domain/repository/EventRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/domain/repository/RoomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/model/FilterForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/service/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/service/EventService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/roomrental/service/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/edit-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/find.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/edit-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/find.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/edit-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/find.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/roomrental/PetclinicApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/model/Event.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/controller/ClientController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-748">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/controller/EventController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/model/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/model/Room.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/edit-form.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/find.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="35" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/form.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/petclinic/domain/model/Visit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/petclinic/controller/ClientController" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/petclinic/controller/OwnerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/petclinic/controller/ClientController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/roomrental/RoomRental.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sdacademy/petclinic/RoomRental.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/RoomRental.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/domain/model/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/service/ClientService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/controller/Room2Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/domain/repository/ClientRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/domain/repository/EventRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/controller/EventController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/service/EventService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/domain/repository/RoomRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/model/FilterForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/controller/ClientController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/controller/RoomController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/service/RoomService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/find.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/edit-form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/edit-form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/find.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/find.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/edit-form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/domain/model/Event.java" />
+        <option value="$PROJECT_DIR$/src/main/java/roomrental/domain/model/Room.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/data.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/petclinic.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_199.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_3_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_21.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_21.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_12_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_16_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_3_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_0_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_28_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_2_28_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_0_M4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_0_RC1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_2_0_RC1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_0_M3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_24.xml" />
+        <option value="$PROJECT_DIR$/../room_rental/room_rental.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="3" />
+    <option name="width" value="769" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="roomrental" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="roomrental" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="roomrental" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="roomrental" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="roomrental" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="roomrental" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="roomrental" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="Event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="petclinic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="Room" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lastProject/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PetclinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="petclinic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="roomrental.RoomRental" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59901d5b-629f-4e8e-9913-f69663e40a69" name="Default Changelist" comment="" />
+      <created>1562600231574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562600231574</updated>
+      <workItem from="1562600233200" duration="5554000" />
+      <workItem from="1562706776185" duration="6780000" />
+      <workItem from="1562847961027" duration="3286000" />
+      <workItem from="1562947839309" duration="12976000" />
+      <workItem from="1563007222635" duration="2429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31025000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32967034" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32967034" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/jakarta/persistence/jakarta.persistence-api/2.2.2/jakarta.persistence-api-2.2.2.jar!/javax/persistence/Id.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.2.0.RC1/spring-data-commons-2.2.0.RC1.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.M3/spring-web-5.2.0.M3.jar!/org/springframework/web/bind/annotation/PathVariable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/RoomRental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/repository/ClientRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/repository/EventRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/repository/RoomRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/controller/RoomController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/service/RoomService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/service/ClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/model/FilterForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/service/EventService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/find.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/edit-form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Room/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/edit-form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/find.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/find.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Event/form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/controller/ClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/controller/EventController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/model/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/model/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/roomrental/domain/model/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Client/edit-form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
